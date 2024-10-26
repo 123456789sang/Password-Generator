@@ -18,3 +18,5 @@ Copy the generated password to your clipboard by clicking the "Copy" button.
 # How It Works
 Password Generation: The application builds a string of allowed characters based on user choices and randomly selects characters from it until reaching the desired length.
 Copy Feature: Once generated, the password can be copied directly to the clipboard with a button.
+  
+  
