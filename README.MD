@@ -15,11 +15,6 @@ Open the application.
 Select the options you want for your password (length, character types).
 Click "Generate Password."
 Copy the generated password to your clipboard by clicking the "Copy" button.
-# Code Overview
-The project is organized into three main files:
-gen.html: Contains the structure of the application.
-gen.css: Provides styling for a clean and responsive design.
-gen.js: Implements the password generation logic and event handling.
 # How It Works
 Password Generation: The application builds a string of allowed characters based on user choices and randomly selects characters from it until reaching the desired length.
 Copy Feature: Once generated, the password can be copied directly to the clipboard with a button.
