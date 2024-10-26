@@ -216,5 +216,5 @@ generateBtn.addEventListener('click', () => {
     passwordDisplay.value = password;
     calcStrength();
 }); 
- n
+ 
 
